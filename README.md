@@ -79,7 +79,7 @@ npm run dev
 
 ## Features
 
-- **OAuth-powered lobby login** for seamless access
+- **OAuth-powered lobby login** for seamless access (Currently only works with Github)
 - **Single-player mode** to challenge your trivia skills
 - **Multiplayer mode** to compete against friends in real-time
 - **Leaderboard** to track and compare scores with friends
