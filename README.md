@@ -2,7 +2,8 @@
 
 A multiplayer web based quiz website where you can compete on your own or with your friends by answering questions and scoring points.
 
-**Live Demo:** [Quizmania](https://final-project-quiz-mania.vercel.app/)
+**Live Demo:** [Quizmania](https://quizmania-eosin.vercel.app/)
+**Our Presentation:** [Presentation](https://lnkd.in/ehxe_X7u)
 
 ---
 
@@ -53,7 +54,7 @@ With single-player and multiplayer modes, users can either challenge themselves 
 
 ```bash
 
-git clone https://github.com/SchoolOfCode/final-project-airon-chefs.git
+git clone https://github.com/SmithyJ98/Quizmania
 cd project-name
 
 ```
